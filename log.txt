@@ -1,0 +1,14 @@
+STEPS FOLLOWED TO COMPLETE THE TASK 
+
+1) First make directory 
+2) make initial commit .
+3)crate a develop branch and make commit
+4)make commit on master branch.
+5)make commit on develop branch.
+6)then merged the develop branch into master branch.
+7)then create a new spider branch.
+8)make a commit .
+9)again make commit by creating new file
+10)merge the spider barnch with master .
+11)delete all the branch except master.
+12)push the origin to master .
